@@ -1,0 +1,22 @@
+html {
+    padding: 30px;
+}
+
+#paragraph {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding-bottom: 20px;
+    position: absolute;
+    top: 69px;
+    left: 133px;
+}
+
+button {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 20px;
+    position: absolute;
+    top: 145px;
+}
